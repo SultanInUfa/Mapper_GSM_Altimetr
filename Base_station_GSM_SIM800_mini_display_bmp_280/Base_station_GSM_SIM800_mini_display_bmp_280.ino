@@ -28,7 +28,7 @@ float Altitude;
 int Delta =0; 
 static volatile int num = 0;
 //String znak;
-char MapperNumberPhone[13];// = "+79373615979";
+char MapperNumberPhone[13];
 char MayBeMapperNumberPhone[13] ;
 //static String type_hw_sw = "1010";
 unsigned long startTime=0; //время начала работы
